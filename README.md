@@ -32,8 +32,8 @@ I'm a final-year B.Tech student in Data Science and a Software Developer Instruc
 ## 📬 Connect With Me
 Feel free to reach out if you want to collaborate, learn together, or just talk tech!
 
-- 📧 Email: kondaprashanthofficial@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/konda-prashanth](https://www.linkedin.com/in/konda-prashanth)  
+- 📧 Email: kondadattathri@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/prashanth-kpy](https://www.linkedin.com/in/prashanth-kpy/)
 
 ---
 
