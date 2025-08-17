@@ -26,14 +26,17 @@ This repo contains three core tasks:
 - Practiced debugging and explaining code in simple terms
 - Reinforced my ability to present technical work with clarity
 
-## 👨‍🏫 About Me
-I'm a final-year B.Tech student in Data Science and a Software Developer Instructor at Trailbliz. I love teaching, mentoring, and making complex topics easy to grasp. This internship was a great opportunity to apply my skills and share my learning journey.
+## 👨‍💻 About Me
+
+I'm **Konda Prashanth**, a **B.Tech graduate in Data Science** from MLR Institute of Technology. I specialize in Python, Java, C++, and core CS concepts like DSA, DBMS, and OOPs. I’m passionate about teaching, mentoring, and making complex topics easy to understand.
+
+Right now, I’m focused on **advanced interview preparation in DSA java, FullStack and system design**, aiming for product-based roles that challenge both my technical depth and creativity. I believe in clarity, authenticity, and continuous improvement—whether it’s writing clean code, guiding others, or refining my own digital presence.
+
+This internship was more than just a task checklist—it was a chance to reinforce my core strengths and share my learning journey in a way that’s both practical and personal.
 
 ## 📬 Connect With Me
-Feel free to reach out if you want to collaborate, learn together, or just talk tech!
 
 - 📧 Email: kondadattathri@gmail.com  
-- 💼 LinkedIn: [prashanth-kpy](https://www.linkedin.com/in/prashanth-kpy/)
+- 💼 LinkedIn: [prashanth-kpy](https://www.linkedin.com/in/prashanth-kpy)  
 
 ---
-
